@@ -1,0 +1,10 @@
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\bin\Debug\Account_Check.exe.config
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\bin\Debug\Account_Check.exe
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\bin\Debug\Account_Check.pdb
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\bin\Debug\WebDriver.dll
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\bin\Debug\WebDriver.xml
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\obj\Debug\Account_Check.csprojAssemblyReference.cache
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\obj\Debug\Account_Check.csproj.CoreCompileInputs.cache
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\obj\Debug\Account_Check.csproj.CopyComplete
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\obj\Debug\Account_Check.exe
+C:\Users\kmtur\source\repos\Account_Check\Account_Check\obj\Debug\Account_Check.pdb
