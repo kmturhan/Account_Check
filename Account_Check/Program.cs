@@ -67,7 +67,7 @@ namespace Account_Check
             //driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(2000);
             try
             {
-               endDate = driver.FindElement(By.ClassName("Type__TypeElement-sc-9snywk-0 jqlSYY PlanHeader__productName--3lF9T")).Text;
+               endDate = driver.FindElement(By.XPath("//*[@id='your - plan']/section/div/div[1]/div[1]/span")).Text;
             }
             catch
             {
@@ -86,7 +86,7 @@ namespace Account_Check
             }
             catch 
             {
-                
+                endDate = driver.FindElement(By.XPath("//*[@id='your-plan']/section/div/div[1]/div[1]/span")).Text;
                 Console.WriteLine("{0} : {1} | Success : {2} | End Date = ", item.Key, item.Value, endDate);
                 driver.Navigate().GoToUrl("https://www.spotify.com/tr/logout");
                 driver.Navigate().GoToUrl("https://accounts.spotify.com/tr/login/?continue=https:%2F%2Fwww.spotify.com%2Ftr%2Faccount%2Foverview%2F&_locale=tr-TR");
